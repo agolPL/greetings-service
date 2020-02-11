@@ -9,6 +9,6 @@ class GreetingsController {
 
     @GetMapping
     String greetings() {
-        return "Hello WJUG wwwwwww\n";
+        return "Hello WJUG 222222\n";
     }
 }
